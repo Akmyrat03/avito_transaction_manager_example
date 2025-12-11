@@ -1,0 +1,1 @@
+This project shows a minimal Clean Architecture setup in Go that uses the Avito Transaction Manager with pgx v5, where all transaction logic lives in the usecase layer.
